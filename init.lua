@@ -7,7 +7,7 @@ LED_IO=0
 
 -- httpserver overrides
 netSSID="CRJP" 
-netPWD="QTE2VQ9DB"
+netPWD="-------"
 
 -- main program
 print("Hello ElectroNinja, greetings!")
